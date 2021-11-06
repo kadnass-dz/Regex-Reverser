@@ -8,7 +8,7 @@ This tool helps you to reverse any regex and gives you the opposite/allowed Lett
 
 ## Screenshots
 
-![App Screenshot](Screenshots.png)
+![App Screenshot](Screenshot.png)
 
 
 ## Usage/Examples

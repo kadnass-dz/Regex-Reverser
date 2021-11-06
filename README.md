@@ -1,50 +1,17 @@
 
 ![](/public/img/logo.png)
-1
-
 # [Regex-Reverser](https://github.com/kadnass-dz/Regex-Reverser/)
-
-2
-
-​
-
-3
-
-This tool helps you to reverse any regex and gives you the opposite/allowed Letters,numerics and symbols.
-
-4
-
-​
-
-
-5
 
 ![](/public/demo.png)
 
-6
+This tool helps you to reverse any regex and gives you the opposite/allowed Letters,numerics and symbols.
 
-​
-
-7
-
-## requirements 
-
-8
-
-​
-
-9
+# requirements 
 
 pip install PyQt5
 
-​
+# usage
 
-10
+python3 run.py
 
 Created by [@shuding](https://github.com/kadnass-dz) idea [@ab2pentest](https://github.com/ab2pentest) 
-
-23
-
-​
-
-

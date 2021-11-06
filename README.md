@@ -14,4 +14,4 @@ pip install PyQt5
 
 python3 run.py
 
-Created by [@shuding](https://github.com/kadnass-dz) idea [@ab2pentest](https://github.com/ab2pentest) 
+Created by [@Kadnass-Dz](https://github.com/kadnass-dz) idea [@ab2pentest](https://github.com/ab2pentest) 
